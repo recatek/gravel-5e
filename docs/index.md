@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+*"Enough pressure crushes even the hardest stone." - Larsk Proverb*
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## What is this?
+Gravel is a campaign supplement for 5th edition introducing lowercase-c [cyberpunk](http://www.infinityplus.co.uk/stories/cpunk.htm) elements.
 
-## Project layout
+## Who is this for?
+High-fantasy low-lives.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+## Where do I start?
+Start with [Character Creation](character_creation.md).
+

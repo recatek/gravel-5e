@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Gravel
+theme:
+  name: material
+nav: 
+  - Home: index.md
+  - Rules:
+     - 'Character Creation': character_creation.md
+     - 'General Gameplay': general_gameplay.md
