@@ -4,5 +4,7 @@ theme:
 nav: 
   - Home: index.md
   - Rules:
-     - 'Character Creation': character_creation.md
-     - 'General Gameplay': general_gameplay.md
+     - 'Character Creation': rules/character_creation.md
+     - 'General Gameplay': rules/general_gameplay.md
+     - 'Arcnet and Slicing': rules/arcnet_slicing.md
+     - 'Tools and Equipment': rules/tools_equipment.md

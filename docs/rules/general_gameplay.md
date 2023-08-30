@@ -1,6 +1,10 @@
 ---
 
-*No dream lives long in a sleepless city.*
+*"Dancies we's, in hands at threes.  
+Dancies we's, all-rounds and frees.  
+Them shiner come, them shiner burn,  
+Them shiner takesies all from me's."*  
+ﾠ- Jackal nursery rhyme
 
 ---
 

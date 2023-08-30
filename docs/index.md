@@ -1,6 +1,7 @@
 ---
 
-*"Enough pressure crushes even the hardest stone." - Larsk Proverb*
+*"The world's weight crushes every stone."  
+ﾠﾠ-- Larsk Proverb*
 
 ---
 
@@ -12,5 +13,5 @@ High-fantasy low-lives.
 
 
 ## Where do I start?
-Start with [Character Creation](character_creation.md).
+Start with [Character Creation](rules/character_creation.md).
 
